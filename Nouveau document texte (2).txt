@@ -1,0 +1,10 @@
+Algorithme ex22
+Variables N, i: entier
+Début
+Ecrire ("Veuillez entrer un nombre: ")
+Lire (N)
+Répeter
+Ecrie (i)
+i <-- i + 1
+Jusqu'à i > (N + 10)
+Fin
